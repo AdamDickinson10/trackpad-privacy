@@ -1,2 +1,2 @@
-# iphone-trackpad-privacy
-Privacy policy for iPhone Trackpad.
+# trackpad-privacy
+Privacy policy for Trackpad app
